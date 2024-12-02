@@ -1,7 +1,8 @@
 import React from "react";
 import AlertMessage from "./components/AlertMessage";
-import Card from "./components/Card";
-
+import Card from ''
+import { FaCheckCircle } from "react-icons/fa";
+import { BsFillInfoCircleFill } from "react-icons/bs";
 import Pricing from "./components/Pricing";
 import Counter from "./components/Counter";
 import Person from "./components/Person";

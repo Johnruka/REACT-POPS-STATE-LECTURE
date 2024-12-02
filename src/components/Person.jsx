@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import AlertMessage from "./AlertMessage";
+import { FaCheckCircle } from "react-icons/fa";
 
 const Person = () => {
   const [email, setEmail] = useState("demo@test.se");
